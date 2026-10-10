@@ -10,3 +10,4 @@ merge 4
 
 
 14
+Вивчимо роботу команди git pull rebase.
