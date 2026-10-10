@@ -1,0 +1,9 @@
+dev change
+
+Злиття гілок, вирішення конфліктів злиття гілок.
+dev
+
+2 com 
+dev change
+
+merge 4
