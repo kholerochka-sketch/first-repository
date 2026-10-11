@@ -2,12 +2,3 @@ dev change
 
 Злиття гілок, вирішення конфліктів злиття гілок.
 dev
-
-2 com 
-dev change
-
-merge 4
-
-
-14
-Вивчимо роботу команди git pull rebase.
